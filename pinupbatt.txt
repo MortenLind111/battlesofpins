@@ -1,1 +1,1 @@
-{"batt":1,"https://pin-pobeda.fun":"null"}
+{"batt":1,"llips":"https://pin-pobeda.fun"}
